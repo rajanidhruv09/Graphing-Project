@@ -3,3 +3,12 @@ This is a simple graphing tool that enables a user to create both 2D and 3D grap
 
 Requirements to run the program:
   1) Python
+  2) Install the follwing libraries :-
+  
+          a) NumPy
+        
+          b) matplotlib
+        
+          c) interface
+        
+          d) implements
